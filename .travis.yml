@@ -1,3 +1,6 @@
 language: c
 compiler: gcc
 script: gcc hello.c -o hello
+
+notifications:
+  slack: nxtcloud:upVcmjs6n3WgkZSEiT5D4YS6
